@@ -1,0 +1,6 @@
+严重性	代码	说明	项目	文件	行	抑制状态
+错误(活动)	CS0103	当前上下文中不存在名称“MapDefLoader”	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	74	
+错误(活动)	CS1061	“MapDef”未包含“InternalName”的定义，并且找不到可接受第一个“MapDef”类型参数的可访问扩展方法“InternalName”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	184	
+错误(活动)	CS1061	“MapDef”未包含“InternalName”的定义，并且找不到可接受第一个“MapDef”类型参数的可访问扩展方法“InternalName”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	196	
+错误(活动)	CS1061	“MapDef”未包含“InternalName”的定义，并且找不到可接受第一个“MapDef”类型参数的可访问扩展方法“InternalName”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	201	
+警告(活动)	CS0169	从不使用字段“ModdedMapScreen._mapScreen”	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	27	
