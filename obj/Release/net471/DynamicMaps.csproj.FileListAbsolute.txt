@@ -1,0 +1,2 @@
+E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\obj\Release\net471\DynamicMaps.csproj.AssemblyReference.cache
+E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\obj\Release\net471\DynamicMaps.GeneratedMSBuildEditorConfig.editorconfig

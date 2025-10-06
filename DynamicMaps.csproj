@@ -1,0 +1,149 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net471</TargetFramework>
+		<AssemblyName>DynamicMaps</AssemblyName>
+		<Description>Dynamic in-game maps for SPT</Description>
+		<LangVersion>7.3</LangVersion>
+		<Nullable>disable</Nullable>
+		<Deterministic>true</Deterministic>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<OutputPath>bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="Assembly-CSharp">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\Assembly-CSharp.dll</HintPath>
+		</Reference>
+		<Reference Include="Assembly-CSharp-firstpass">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+		</Reference>
+		<Reference Include="BepInEx">
+			<HintPath>F:\EFT2\BepInEx\core\BepInEx.dll</HintPath>
+		</Reference>
+		<Reference Include="Comfort">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\Comfort.dll</HintPath>
+		</Reference>
+		<Reference Include="ConfigurationManager">
+			<HintPath>F:\EFT2\BepInEx\plugins\spt\ConfigurationManager\ConfigurationManager.dll</HintPath>
+		</Reference>
+		<Reference Include="Newtonsoft.Json">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\Newtonsoft.Json.dll</HintPath>
+		</Reference>
+		<Reference Include="spt-reflection">
+			<HintPath>F:\EFT2\BepInEx\plugins\spt\spt-reflection.dll</HintPath>
+		</Reference>
+		<Reference Include="spt-common">
+			<HintPath>F:\EFT2\BepInEx\plugins\spt\spt-common.dll</HintPath>
+		</Reference>
+		<Reference Include="spt-core">
+			<HintPath>F:\EFT2\BepInEx\plugins\spt\spt-core.dll</HintPath>
+		</Reference>
+		<Reference Include="spt-custom">
+			<HintPath>F:\EFT2\BepInEx\plugins\spt\spt-custom.dll</HintPath>
+		</Reference>
+		<Reference Include="spt-debugging">
+			<HintPath>F:\EFT2\BepInEx\plugins\spt\spt-debugging.dll</HintPath>
+		</Reference>
+		<Reference Include="spt-singleplayer">
+			<HintPath>F:\EFT2\BepInEx\plugins\spt\spt-singleplayer.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\UnityEngine.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.CoreModule">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.ImageConversionModule">
+		  <HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.UI">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\UnityEngine.UI.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.UIModule">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.InputLegacyModule">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.IMGUIModule">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.AnimationModule">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\UnityEngine.AnimationModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.AudioModule">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\UnityEngine.AudioModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.TextRenderingModule">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+		</Reference>
+		<Reference Include="Unity.TextMeshPro">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+		</Reference>
+		<Reference Include="0Harmony">
+			<HintPath>F:\EFT2\BepInEx\core\0Harmony.dll</HintPath>
+		</Reference>
+		<!-- 添加缺失的引用 -->
+		<Reference Include="DissonanceVoip">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\DissonanceVoip.dll</HintPath>
+		</Reference>
+		<Reference Include="Sirenix.Serialization">
+			<HintPath>F:\EFT2\EscapeFromTarkov_Data\Managed\Sirenix.Serialization.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="Resources\**\*" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<!-- 显式包含所有源代码文件 -->
+		<Compile Include="Config\ConfigurationManagerAttributes.cs" />
+		<Compile Include="Config\Settings.cs" />
+		<Compile Include="Data\Defs.cs" />
+		<Compile Include="DynamicMarkers\AirdropMarkerProvider.cs" />
+		<Compile Include="DynamicMarkers\BackpackMarkerProvider.cs" />
+		<Compile Include="DynamicMarkers\BTRMarkerProvider.cs" />
+		<Compile Include="DynamicMarkers\CorpseMarkerProvider.cs" />
+		<Compile Include="DynamicMarkers\ExtractMarkerProvider.cs" />
+		<Compile Include="DynamicMarkers\IDynamicMarkerProvider.cs" />
+		<Compile Include="DynamicMarkers\LockedDoorMarkerMutator.cs" />
+		<Compile Include="DynamicMarkers\OtherPlayersMarkerProvider.cs" />
+		<Compile Include="DynamicMarkers\PlayerMarkerProvider.cs" />
+		<Compile Include="DynamicMarkers\QuestMarkerProvider.cs" />
+		<Compile Include="Patches\AirdropBoxPatches.cs" />
+		<Compile Include="Patches\BattleUIScreenPatches.cs" />
+		<Compile Include="Patches\CommonUIPatches.cs" />
+		<Compile Include="Patches\GameWorldPatches.cs" />
+		<Compile Include="Patches\MapScreenPatches.cs" />
+		<Compile Include="Patches\PlayerPatches.cs" />
+		<Compile Include="Plugin.cs" />
+		<Compile Include="UI\Components\MapLabel.cs" />
+		<Compile Include="UI\Components\MapLayer.cs" />
+		<Compile Include="UI\Components\MapMarker.cs" />
+		<Compile Include="UI\Components\MapPeekComponent.cs" />
+		<Compile Include="UI\Components\MapView.cs" />
+		<Compile Include="UI\Components\PlayerMapMarker.cs" />
+		<Compile Include="UI\Components\TransformMapMarker.cs" />
+		<Compile Include="UI\Controls\AbstractTextControl.cs" />
+		<Compile Include="UI\Controls\CursorPositionText.cs" />
+		<Compile Include="UI\Controls\LevelSelectSlider.cs" />
+		<Compile Include="UI\Controls\MapSelectDropdown.cs" />
+		<Compile Include="UI\Controls\PlayerPositionText.cs" />
+		<Compile Include="UI\ModdedMapScreen.cs" />
+		<Compile Include="Utils\DumpUtils.cs" />
+		<Compile Include="Utils\GameUtils.cs" />
+		<Compile Include="Utils\MathUtils.cs" />
+		<Compile Include="Utils\PlayerDotSpawner.cs" />
+		<Compile Include="Utils\QuestUtils.cs" />
+		<Compile Include="Utils\TextureUtils.cs" />
+		<Compile Include="Utils\UIUtils.cs" />
+		<Compile Include="Version.cs" />
+		<Compile Include="VersionChecker.cs" />
+	</ItemGroup>
+</Project>
