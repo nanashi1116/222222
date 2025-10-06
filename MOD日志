@@ -1,0 +1,257 @@
+[Message:   BepInEx] BepInEx 5.4.23.2 - EscapeFromTarkov (2025/10/1 18:51:28)
+[Info   :   BepInEx] Running under Unity v0.16.9.4008
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] Loaded 1 patcher method from [spt-prepatch 4.0.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [SPT.PrePatch.SPTPrePatcher]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 9 plugins to load
+[Info   :   BepInEx] Loading [Graphics 1.6.5]
+[Info   :ModulePatch] Enabled patch AmandsPlayerPatch:AmandsPlayerPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsNVGPatch:AmandsGraphicsNVGPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsApplyNVGPatch:AmandsGraphicsApplyNVGPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsHBAOPatch:AmandsGraphicsHBAOPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsPrismEffectsPatch:AmandsGraphicsPrismEffectsPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsOpticPatch:AmandsGraphicsOpticPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsOpticSightPatch:AmandsGraphicsOpticSightPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsCameraClassPatch:AmandsGraphicsCameraClassPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsmethod_25Patch:AmandsGraphicsmethod_25Patch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsTacticalComboVisualControllerPatch:AmandsGraphicsTacticalComboVisualControllerPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsFastBlurPatch:AmandsGraphicsFastBlurPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsMethod_7Patch:AmandsGraphicsMethod_7Patch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsFastBlurHitPatch:AmandsGraphicsFastBlurHitPatch
+[Warning:  HarmonyX] AmandsBattleUIScreenPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method void EFT.UI.BattleUIScreen<EFT.UI.EftBattleUIScreen+GClass3865, EFT.UI.Screens.EEftScreenType>::Show(EFT.GamePlayerOwner owner) instead of void EFT.UI.BattleUIScreen<EFT.UI.EftBattleUIScreen+GClass3865, EFT.UI.Screens.EEftScreenType>::Show(EFT.GamePlayerOwner owner).
+[Info   :ModulePatch] Enabled patch AmandsBattleUIScreenPatch:AmandsBattleUIScreenPatch
+[Info   :ModulePatch] Enabled patch AmandsEffectsControllerPatch:AmandsEffectsControllerPatch
+[Info   :   BepInEx] Loading [Configuration Manager 18.0.1]
+[Info   :   BepInEx] Loading [SPT.Custom 4.0.0]
+[Info   :SPT.Custom] Loading: SPT.Custom
+[Info   :ModulePatch] Enabled patch EasyAssetsPatch:EasyAssetsPatch
+[Info   :ModulePatch] Enabled patch GameStartRequestPatch:GameStartRequestPatch
+[Info   :ModulePatch] Enabled patch DisableNonHalloweenExitsDuringEventPatch:DisableNonHalloweenExitsDuringEventPatch
+[Info   :ModulePatch] Enabled patch SendFleaListingTaxAmountToServerPatch:SendFleaListingTaxAmountToServerPatch
+[Info   :ModulePatch] Enabled patch AddTraitorScavsPatch:AddTraitorScavsPatch
+[Info   :RequestHandler] [REQUEST]: /singleplayer/bosstypes
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/bosstypes
+[Info   :ModulePatch] Enabled patch CustomAiPatch:CustomAiPatch
+[Info   :ModulePatch] Enabled patch SaveSettingsToSptFolderPatch:SaveSettingsToSptFolderPatch
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetInt:PatchPlayerPrefsSetInt
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetFloat:PatchPlayerPrefsSetFloat
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetString:PatchPlayerPrefsSetString
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetInt:PatchPlayerPrefsGetInt
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetFloat:PatchPlayerPrefsGetFloat
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetString:PatchPlayerPrefsGetString
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsHasKey:PatchPlayerPrefsHasKey
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsDeleteKey:PatchPlayerPrefsDeleteKey
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsDeleteAll:PatchPlayerPrefsDeleteAll
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSave:PatchPlayerPrefsSave
+[Info   :ModulePatch] Enabled patch QTEPatch:QTEPatch
+[Info   :ModulePatch] Enabled patch RedirectClientImageRequestsPatch:RedirectClientImageRequestsPatch
+[Info   :ModulePatch] Enabled patch DisableGameModeAdjustButtonPatch:DisableGameModeAdjustButtonPatch
+[Info   :ModulePatch] Enabled patch FixPmcSpawnParamsNullErrorPatch:FixPmcSpawnParamsNullErrorPatch
+[Info   :ModulePatch] Enabled patch SetPreRaidSettingsScreenDefaultsPatch:SetPreRaidSettingsScreenDefaultsPatch
+[Info   :ModulePatch] Enabled patch CoreDifficultyPatch:CoreDifficultyPatch
+[Info   :ModulePatch] Enabled patch BotDifficultyPatch:BotDifficultyPatch
+[Info   :ModulePatch] Enabled patch VersionLabelPatch:VersionLabelPatch
+[Info   :ModulePatch] Enabled patch FixScavWarNullErrorWithMarkOfUnknownPatch:FixScavWarNullErrorWithMarkOfUnknownPatch
+[Info   :ModulePatch] Enabled patch MergeScavPmcQuestsOnInventoryLoadPatch:MergeScavPmcQuestsOnInventoryLoadPatch
+[Info   :ModulePatch] Enabled patch CopyPmcQuestsAndWishlistToPlayerScavPatch:CopyPmcQuestsAndWishlistToPlayerScavPatch
+[Info   :ModulePatch] Enabled patch FixBossesHavingNoFollowersOnMediumAiAmount:FixBossesHavingNoFollowersOnMediumAiAmount
+[Info   :ModulePatch] Enabled patch FixAirdropCrashPatch:FixAirdropCrashPatch
+[Info   :ModulePatch] Enabled patch FixAirdropFlareDisposePatch:FixAirdropFlareDisposePatch
+[Info   :ModulePatch] Enabled patch AllowAirdropsInPvEPatch:AllowAirdropsInPvEPatch
+[Info   :ModulePatch] Enabled patch MemoryCollectionPatch:MemoryCollectionPatch
+[Info   :ModulePatch] Enabled patch EnablePrestigeTabPatch:EnablePrestigeTabPatch
+[Info   :ModulePatch] Enabled patch MatchStartServerLocationPatch:MatchStartServerLocationPatch
+[Info   :ModulePatch] Enabled patch SpawnPointAIPlayerBotLimitPatch:SpawnPointAIPlayerBotLimitPatch
+[Info   :ModulePatch] Enabled patch SpawnPointNearestPlayerAIPatch:SpawnPointNearestPlayerAIPatch
+[Info   :ModulePatch] Enabled patch BotsControllerInitPatch:BotsControllerInitPatch
+[Info   :ModulePatch] Enabled patch BotsEventsControllerActivatePatch:BotsEventsControllerActivatePatch
+[Info   :ModulePatch] Enabled patch EnableInfectionUIPatch:EnableInfectionUIPatch
+[Info   :SPT.Custom] Completed: SPT.Custom
+[Info   :   BepInEx] Loading [DynamicMaps 1.0.0]
+[Warning:  HarmonyX] BattleUIScreenShowPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method void EFT.UI.BattleUIScreen<EFT.UI.EftBattleUIScreen+GClass3865, EFT.UI.Screens.EEftScreenType>::Show(EFT.GamePlayerOwner owner) instead of void EFT.UI.BattleUIScreen<EFT.UI.EftBattleUIScreen+GClass3865, EFT.UI.Screens.EEftScreenType>::Show(EFT.GamePlayerOwner owner).
+[Info   :ModulePatch] Enabled patch BattleUIScreenShowPatch:BattleUIScreenShowPatch
+[Info   :ModulePatch] Enabled patch CommonUIAwakePatch:CommonUIAwakePatch
+[Info   :ModulePatch] Enabled patch MapScreenShowPatch:MapScreenShowPatch
+[Info   :ModulePatch] Enabled patch MapScreenClosePatch:MapScreenClosePatch
+[Info   :ModulePatch] Enabled patch GameWorldOnDestroyPatch:GameWorldOnDestroyPatch
+[Info   :ModulePatch] Enabled patch GameWorldUnregisterPlayerPatch:GameWorldUnregisterPlayerPatch
+[Info   :ModulePatch] Enabled patch GameWorldRegisterLootItemPatch:GameWorldRegisterLootItemPatch
+[Info   :ModulePatch] Enabled patch GameWorldDestroyLootPatch:GameWorldDestroyLootPatch
+[Info   :ModulePatch] Enabled patch AirdropBoxOnBoxLandPatch:AirdropBoxOnBoxLandPatch
+[Info   :ModulePatch] Enabled patch PlayerOnDeadPatch:PlayerOnDeadPatch
+[Warning:  HarmonyX] AccessTools.Field: Could not find field for type EFT.Player+PlayerInventoryController and name player_0
+[Info   :ModulePatch] Enabled patch PlayerInventoryThrowItemPatch:PlayerInventoryThrowItemPatch
+[Info   :DynamicMaps] DynamicMaps plugin loaded successfully!
+[Info   :   BepInEx] Loading [SPT.Core 4.0.0]
+[Info   :  SPT.Core] Loading: SPT.Core
+[Info   :ModulePatch] Enabled patch ConsistencySinglePatch:ConsistencySinglePatch
+[Info   :ModulePatch] Enabled patch ConsistencyMultiPatch:ConsistencyMultiPatch
+[Info   :ModulePatch] Enabled patch GameValidationPatch:GameValidationPatch
+[Info   :ModulePatch] Enabled patch BattlEyePatch:BattlEyePatch
+[Info   :ModulePatch] Enabled patch SslCertificatePatch:SslCertificatePatch
+[Info   :ModulePatch] Enabled patch UnityWebRequestPatch:UnityWebRequestPatch
+[Info   :ModulePatch] Enabled patch WebSocketSslValidationPatch:WebSocketSslValidationPatch
+[Info   :ModulePatch] Enabled patch Patch4001:Patch4001
+[Info   :ModulePatch] Enabled patch Patch4002:Patch4002
+[Info   :  SPT.Core] Completed: SPT.Core
+[Info   :   BepInEx] Loading [SPT.Debugging 4.0.0]
+[Info   :SPT.Debugging] Loading: SPT.Debugging
+[Info   :ModulePatch] Enabled patch EndRaidDebug:EndRaidDebug
+[Info   :ModulePatch] Enabled patch LoggerClassLogPatch:LoggerClassLogPatch
+[Info   :ModulePatch] Enabled patch ReloadClientPatch:ReloadClientPatch
+[Info   :ModulePatch] Enabled patch EnableDebugCommandsPatch:EnableDebugCommandsPatch
+[Info   :SPT.Debugging] Completed: SPT.Debugging
+[Info   :   BepInEx] Loading [SPT.EftTrainer 1.0.0]
+[Info   :SPT.EftTrainer] White-listing com.SPT.efttrainer
+[Info   :   BepInEx] Loading [SPT.Singleplayer 4.0.0]
+[Info   :SPT.Singleplayer] Loading: SPT.SinglePlayer
+[Info   :ModulePatch] Enabled patch TinnitusFixPatch:TinnitusFixPatch
+[Info   :ModulePatch] Enabled patch EmptyInfilFixPatch:EmptyInfilFixPatch
+[Info   :ModulePatch] Enabled patch OverrideMaxAiAliveInRaidValuePatch:OverrideMaxAiAliveInRaidValuePatch
+[Info   :ModulePatch] Enabled patch FixPostScavRaidXpShowingZeroPatch:FixPostScavRaidXpShowingZeroPatch
+[Info   :ModulePatch] Enabled patch DisablePMCExtractsForScavsPatch:DisablePMCExtractsForScavsPatch
+[Info   :ModulePatch] Enabled patch ScavExfilPatch:ScavExfilPatch
+[Info   :ModulePatch] Enabled patch ScavProfileLoadPatch:ScavProfileLoadPatch
+[Info   :ModulePatch] Enabled patch ScavPrefabLoadPatch:ScavPrefabLoadPatch
+[Info   :ModulePatch] Enabled patch LoadOfflineRaidScreenPatch:LoadOfflineRaidScreenPatch
+[Info   :ModulePatch] Enabled patch AmmoUsedCounterPatch:AmmoUsedCounterPatch
+[Info   :ModulePatch] Enabled patch PluginErrorNotifierPatch:PluginErrorNotifierPatch
+[Info   :ModulePatch] Enabled patch RemoveUsedBotProfilePatch:RemoveUsedBotProfilePatch
+[Info   :ModulePatch] Enabled patch ScavLateStartPatch:ScavLateStartPatch
+[Info   :ModulePatch] Enabled patch ScavSellAllPriceStorePatch:ScavSellAllPriceStorePatch
+[Info   :ModulePatch] Enabled patch ScavSellAllRequestPatch:ScavSellAllRequestPatch
+[Info   :ModulePatch] Enabled patch ScavRepAdjustmentPatch:ScavRepAdjustmentPatch
+[Info   :ModulePatch] Enabled patch DisableWelcomeToPVEModeMessagePatch:DisableWelcomeToPVEModeMessagePatch
+[Info   :ModulePatch] Enabled patch DisableMatchmakerPlayerPreviewButtonsPatch:DisableMatchmakerPlayerPreviewButtonsPatch
+[Info   :ModulePatch] Enabled patch EnablePlayerScavPatch:EnablePlayerScavPatch
+[Info   :ModulePatch] Enabled patch ScavFoundInRaidPatch:ScavFoundInRaidPatch
+[Info   :ModulePatch] Enabled patch GetProfileAtEndOfRaidPatch:GetProfileAtEndOfRaidPatch
+[Info   :ModulePatch] Enabled patch SendPlayerScavProfileToServerAfterRaidPatch:SendPlayerScavProfileToServerAfterRaidPatch
+[Info   :ModulePatch] Enabled patch RemoveStashUpgradeLabelPatch:RemoveStashUpgradeLabelPatch
+[Info   :ModulePatch] Enabled patch RemoveClothingItemExternalObtainLabelPatch:RemoveClothingItemExternalObtainLabelPatch
+[Info   :ModulePatch] Enabled patch ForceRaidModeToLocalPatch:ForceRaidModeToLocalPatch
+[Info   :ModulePatch] Enabled patch ScavIsPlayerEnemyPatch:ScavIsPlayerEnemyPatch
+[Info   :ModulePatch] Enabled patch FirearmControllerShowIncompatibleNotificationClass:FirearmControllerShowIncompatibleNotificationClass
+[Info   :ModulePatch] Enabled patch FixKeyAlreadyExistsErrorOnAchievementPatch:FixKeyAlreadyExistsErrorOnAchievementPatch
+[Info   :ModulePatch] Enabled patch ScavPrestigeFixPatch:ScavPrestigeFixPatch
+[Info   :ModulePatch] Enabled patch DisableDevMaskCheckPatch:DisableDevMaskCheckPatch
+[Info   :ModulePatch] Enabled patch RemoveStopwatchAllocationsEveryCoverPointFramePatch:RemoveStopwatchAllocationsEveryCoverPointFramePatch
+[Info   :ModulePatch] Enabled patch DisableUseBSGServersCheckbox:DisableUseBSGServersCheckbox
+[Info   :ModulePatch] Enabled patch PmcBotSidePatch:PmcBotSidePatch
+[Info   :ModulePatch] Enabled patch QuestAchievementRewardInRaidPatch:QuestAchievementRewardInRaidPatch
+[Info   :ModulePatch] Enabled patch FixUnityWarningSpamFromAirdropsPatch:FixUnityWarningSpamFromAirdropsPatch
+[Info   :ModulePatch] Enabled patch DisableReadyLocationReadyPatch:DisableReadyLocationReadyPatch
+[Info   :ModulePatch] Enabled patch DisableMatchmakerOfflineRaidReadyPatch:DisableMatchmakerOfflineRaidReadyPatch
+[Info   :ModulePatch] Enabled patch DisableMatchmakerInsuranceReadyPatch:DisableMatchmakerInsuranceReadyPatch
+[Warning:  HarmonyX] DisableDiscardLimitsPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method virtual bool EFT.Player+PlayerInventoryController::get_HasDiscardLimits() instead of virtual bool EFT.Player+PlayerInventoryController::get_HasDiscardLimits().
+[Info   :ModulePatch] Enabled patch DisableDiscardLimitsPatch:DisableDiscardLimitsPatch
+[Info   :ModulePatch] Enabled patch DisableBuffLoggingPatch:DisableBuffLoggingPatch
+[Info   :ModulePatch] Enabled patch RemoveStashUpgradeLabelPatch2:RemoveStashUpgradeLabelPatch2
+[Info   :SPT.Singleplayer] Completed: SPT.SinglePlayer
+[Info   :   BepInEx] Loading [Terkoiz.Skipper 1.1.3]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :SPT.EftTrainer] Found MainScene, loading...
+[Info   :ModulePatch] Enabled patch AmandsPlayerPatch:AmandsPlayerPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsNVGPatch:AmandsGraphicsNVGPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsApplyNVGPatch:AmandsGraphicsApplyNVGPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsHBAOPatch:AmandsGraphicsHBAOPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsPrismEffectsPatch:AmandsGraphicsPrismEffectsPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsOpticPatch:AmandsGraphicsOpticPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsOpticSightPatch:AmandsGraphicsOpticSightPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsCameraClassPatch:AmandsGraphicsCameraClassPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsmethod_25Patch:AmandsGraphicsmethod_25Patch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsTacticalComboVisualControllerPatch:AmandsGraphicsTacticalComboVisualControllerPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsFastBlurPatch:AmandsGraphicsFastBlurPatch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsMethod_7Patch:AmandsGraphicsMethod_7Patch
+[Info   :ModulePatch] Enabled patch AmandsGraphicsFastBlurHitPatch:AmandsGraphicsFastBlurHitPatch
+[Warning:  HarmonyX] AmandsBattleUIScreenPatch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method void EFT.UI.BattleUIScreen<EFT.UI.EftBattleUIScreen+GClass3865, EFT.UI.Screens.EEftScreenType>::Show(EFT.GamePlayerOwner owner) instead of void EFT.UI.BattleUIScreen<EFT.UI.EftBattleUIScreen+GClass3865, EFT.UI.Screens.EEftScreenType>::Show(EFT.GamePlayerOwner owner).
+[Info   :ModulePatch] Enabled patch AmandsBattleUIScreenPatch:AmandsBattleUIScreenPatch
+[Info   :ModulePatch] Enabled patch AmandsEffectsControllerPatch:AmandsEffectsControllerPatch
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST]: /singleplayer/release
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/release
+[Info   :ModulePatch] Enabled patch BetaLogoPatch:BetaLogoPatch
+[Info   :ModulePatch] Enabled patch BetaLogoPatch2:BetaLogoPatch2
+[Info   :ModulePatch] Enabled patch BetaLogoPatch3:BetaLogoPatch3
+[Info   :MenuNotificationManager] 用户已接受测试版免责声明
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/enableBSGlogging
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/enableBSGlogging
+[Info   :ModulePatch] Enabled patch QuestObjectiveViewPatch:QuestObjectiveViewPatch
+[Info   :SPT.EftTrainer] Removing SPT watermark
+[Info   :SPT.EftTrainer] Disabling SPT hash monitoring
+[Info   :RequestHandler] [REQUEST]: /singleplayer/bundles
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/bundles
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/version
+[Info   :ModulePatch] Server version: SPT 4.0.0 - BLEEDINGEDGE 32dafe
+[Warning:  HarmonyX] EFT.Trainer.Features.Quests: You should only patch implemented methods/constructors to avoid issues. Patch the declared method virtual void GClass3999<QuestClass>::OnConditionChangedHandler(QuestClass conditional) instead of virtual void GClass3999<QuestClass>::OnConditionChangedHandler(QuestClass conditional).
+[Info   :RequestHandler] [REQUEST]: /singleplayer/clientmods
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/clientmods
+[Info   :DynamicMaps] Trying to attach to MapScreen
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Warning:  SPT.Core] Validation failed
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/raid/menu
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/raid/menu
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/getRaidTime
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/getRaidTime
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/maxCap/Sandbox
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/maxCap/Sandbox
+[Info   :ModulePatch] Set max bot cap for: Sandbox from: 36 to: 7
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/difficulties
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/difficulties
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/difficulty/core/core
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/difficulty/core/core
+[Warning:ModulePatch] __instance.BotHalloweenEvent.Spawner is null skip Activate
+[Info   :ModulePatch] __instance.BotHalloweenEvent.Spawner is not null run Activate
+[Info   :RequestHandler] [REQUEST]: /singleplayer/scav/traitorscavhostile
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/scav/traitorscavhostile
+[Info   :DynamicMaps] BattleUIScreen Show patch triggered, attaching peek component
+[Info   :DynamicMaps] TryAddPeekComponent: Attempting to add MapPeekComponent
+[Info   :DynamicMaps] MapPeekComponent successfully added to BattleUIScreen
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/getBotBehaviours/
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/getBotBehaviours/
+[Warning:ModulePatch] Cached ai brain weights in client
+[Warning:ModulePatch] Updated assault bot Лёха Вейпер to use: assault brain
+[Warning:ModulePatch] Updated assault bot Авдей Князь to use: assault brain
+[Warning:ModulePatch] Updated assault bot Егор Вертолёт to use: assault brain
+[Warning:ModulePatch] Updated assault bot Паша Правильный to use: assault brain
+[Warning:ModulePatch] Updated assault bot Юлиан Насос to use: assault brain
+[Warning:ModulePatch] Updated assault bot Витек Джентельмен to use: assault brain
+[Warning:ModulePatch] Updated spt bot dvize: pmcBEAR to use: pmcBEAR brain
+[Warning:ModulePatch] Updated spt bot Super: pmcBEAR to use: pmcBEAR brain
+[Warning:ModulePatch] Updated spt bot Hooshu: pmcUSEC to use: pmcUSEC brain
+[Warning:ModulePatch] Updated spt bot wizard83: pmcUSEC to use: pmcUSEC brain
+[Warning:ModulePatch] Updated spt bot Belette: pmcBEAR to use: pmcBEAR brain
+[Warning:ModulePatch] Updated spt bot KappaCam: pmcUSEC to use: pmcUSEC brain
+[Info   :DynamicMaps] BattleUIScreen Show patch triggered, attaching peek component
+[Info   :DynamicMaps] TryAddPeekComponent: Attempting to add MapPeekComponent
+[Info   :DynamicMaps] MapPeekComponent already attached to BattleUIScreen
