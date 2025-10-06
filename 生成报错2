@@ -1,326 +1,328 @@
-严重性	代码	说明	项目	文件	行	抑制状态
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	55	
-错误(活动)	CS0246	未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	4	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	11	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	17	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	18	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	23	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	23	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	26	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	26	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	29	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	29	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	32	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	32	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	40	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	40	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	43	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	43	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	44	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	48	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	49	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	55	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	58	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	58	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	59	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	63	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	69	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	69	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	72	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	72	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	75	
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	75	
-错误(活动)	CS0234	命名空间“SPT”中不存在类型或命名空间名“Custom”(是否缺少程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\AirdropMarkerProvider.cs	3	
-错误(活动)	CS0246	未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\AirdropMarkerProvider.cs	15	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\AirdropMarkerProvider.cs	21	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\AirdropMarkerProvider.cs	22	
-错误(活动)	CS0246	未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\AirdropMarkerProvider.cs	67	
-错误(活动)	CS0246	未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\AirdropMarkerProvider.cs	96	
-错误(活动)	CS0246	未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BackpackMarkerProvider.cs	3	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BackpackMarkerProvider.cs	8	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BackpackMarkerProvider.cs	9	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BackpackMarkerProvider.cs	10	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BackpackMarkerProvider.cs	20	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BackpackMarkerProvider.cs	21	
-错误(活动)	CS0246	未能找到类型或命名空间名“LootItem”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BackpackMarkerProvider.cs	101	
-错误(活动)	CS0246	未能找到类型或命名空间名“LootItem”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BackpackMarkerProvider.cs	121	
-错误(活动)	CS0246	未能找到类型或命名空间名“LootItem”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BackpackMarkerProvider.cs	146	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BTRMarkerProvider.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\BTRMarkerProvider.cs	13	
-错误(活动)	CS0246	未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	3	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	8	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	20	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	24	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	28	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	32	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	36	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	40	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	44	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	118	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	159	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	203	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\CorpseMarkerProvider.cs	283	
-错误(活动)	CS0246	未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	3	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	7	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	8	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	18	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	19	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	20	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	21	
-错误(活动)	CS0246	未能找到类型或命名空间名“ExfiltrationPoint”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	49	
-错误(活动)	CS0246	未能找到类型或命名空间名“ExfiltrationPoint”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	131	
-错误(活动)	CS0246	未能找到类型或命名空间名“EExfiltrationStatus”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	131	
-错误(活动)	CS0246	未能找到类型或命名空间名“ExfiltrationPoint”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	159	
-错误(活动)	CS0246	未能找到类型或命名空间名“ExfiltrationPoint”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\ExtractMarkerProvider.cs	180	
-错误(活动)	CS0246	未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\OtherPlayersMarkerProvider.cs	3	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\OtherPlayersMarkerProvider.cs	8	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\OtherPlayersMarkerProvider.cs	21	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\OtherPlayersMarkerProvider.cs	25	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\OtherPlayersMarkerProvider.cs	29	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\OtherPlayersMarkerProvider.cs	33	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\OtherPlayersMarkerProvider.cs	93	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\OtherPlayersMarkerProvider.cs	189	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\OtherPlayersMarkerProvider.cs	212	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\OtherPlayersMarkerProvider.cs	271	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\DynamicMarkers\PlayerMarkerProvider.cs	13	
-错误(活动)	CS0234	命名空间“SPT”中不存在类型或命名空间名“Custom”(是否缺少程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\AirdropBoxPatches.cs	4	
-错误(活动)	CS0246	未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\AirdropBoxPatches.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\AirdropBoxPatches.cs	13	
-错误(活动)	CS0246	未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\AirdropBoxPatches.cs	30	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\BattleUIScreenPatches.cs	4	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\BattleUIScreenPatches.cs	5	
-错误(活动)	CS0246	未能找到类型或命名空间名“EftBattleUIScreen”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\BattleUIScreenPatches.cs	20	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\CommonUIPatches.cs	3	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\CommonUIPatches.cs	4	
-错误(活动)	CS0246	未能找到类型或命名空间名“CommonUI”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\CommonUIPatches.cs	17	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\MapScreenPatches.cs	5	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\PlayerPatches.cs	6	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\PlayerPatches.cs	7	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\PlayerPatches.cs	8	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\PlayerPatches.cs	15	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\PlayerPatches.cs	23	
-错误(活动)	CS0246	未能找到类型或命名空间名“Item”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\PlayerPatches.cs	33	
-错误(活动)	CS0246	未能找到类型或命名空间名“Item”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\PlayerPatches.cs	34	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\PlayerPatches.cs	52	
-错误(活动)	CS0246	未能找到类型或命名空间名“Item”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\PlayerPatches.cs	52	
-错误(活动)	CS0246	未能找到类型或命名空间名“LootItem”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Patches\PlayerPatches.cs	66	
-错误(活动)	CS0012	类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Plugin.cs	10	
-错误(活动)	CS0012	类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Plugin.cs	11	
-错误(活动)	CS0012	类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Plugin.cs	15	
-错误(活动)	CS0012	类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Plugin.cs	16	
-错误(活动)	CS0012	类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Plugin.cs	17	
-错误(活动)	CS0012	类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Plugin.cs	18	
-错误(活动)	CS0012	类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Plugin.cs	19	
-错误(活动)	CS0012	类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Plugin.cs	21	
-错误(活动)	CS0246	未能找到类型或命名空间名“TMPro”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLabel.cs	4	
-错误(活动)	CS0246	未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLabel.cs	9	
-错误(活动)	CS0246	未能找到类型或命名空间名“TextMeshProUGUI”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLabel.cs	14	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLabel.cs	15	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLabel.cs	17	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLabel.cs	18	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLabel.cs	32	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLabel.cs	33	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLabel.cs	56	
-错误(活动)	CS0234	命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLayer.cs	4	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLayer.cs	18	
-错误(活动)	CS0246	未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLayer.cs	22	
-错误(活动)	CS0246	未能找到类型或命名空间名“Image”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLayer.cs	28	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLayer.cs	29	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLayer.cs	37	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLayer.cs	71	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapLayer.cs	86	
-错误(活动)	CS0246	未能找到类型或命名空间名“TMPro”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	5	
-错误(活动)	CS0234	命名空间“UnityEngine”中不存在类型或命名空间名“EventSystems”(是否缺少程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	7	
-错误(活动)	CS0234	命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	8	
-错误(活动)	CS0246	未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPointerEnterHandler”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPointerExitHandler”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	48	
-错误(活动)	CS0246	未能找到类型或命名空间名“Image”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	58	
-错误(活动)	CS0246	未能找到类型或命名空间名“TextMeshProUGUI”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	59	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	60	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	66	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	67	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	94	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	95	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	110	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	111	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	146	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	146	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	155	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	155	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	156	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	156	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	156	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	230	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	247	
-错误(活动)	CS0246	未能找到类型或命名空间名“PointerEventData”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	286	
-错误(活动)	CS0246	未能找到类型或命名空间名“PointerEventData”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapMarker.cs	295	
-错误(活动)	CS0246	未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapPeekComponent.cs	7	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapPeekComponent.cs	10	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapPeekComponent.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapPeekComponent.cs	17	
-错误(活动)	CS0246	未能找到类型或命名空间名“DG”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	4	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	7	
-错误(活动)	CS0234	命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	9	
-错误(活动)	CS0246	未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	13	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	15	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	21	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	26	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	27	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	28	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	34	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	40	
-错误(活动)	CS0246	未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	85	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	85	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	86	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	94	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	94	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	274	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	285	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	327	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	338	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	355	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	362	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapView.cs	370	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\PlayerMapMarker.cs	2	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\PlayerMapMarker.cs	10	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\PlayerMapMarker.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\PlayerMapMarker.cs	16	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\PlayerMapMarker.cs	16	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\PlayerMapMarker.cs	16	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\PlayerMapMarker.cs	17	
-错误(活动)	CS0246	未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\TransformMapMarker.cs	1	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\TransformMapMarker.cs	10	
-错误(活动)	CS0246	未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\TransformMapMarker.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\TransformMapMarker.cs	18	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\TransformMapMarker.cs	18	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\TransformMapMarker.cs	18	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\TransformMapMarker.cs	19	
-错误(活动)	CS0246	未能找到类型或命名空间名“TMPro”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\AbstractTextControl.cs	2	
-错误(活动)	CS0246	未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\AbstractTextControl.cs	7	
-错误(活动)	CS0246	未能找到类型或命名空间名“TextMeshProUGUI”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\AbstractTextControl.cs	9	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\AbstractTextControl.cs	10	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\AbstractTextControl.cs	14	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\CursorPositionText.cs	7	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\CursorPositionText.cs	9	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\CursorPositionText.cs	9	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\LevelSelectSlider.cs	6	
-错误(活动)	CS0246	未能找到类型或命名空间名“TMPro”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\LevelSelectSlider.cs	7	
-错误(活动)	CS0234	命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\LevelSelectSlider.cs	9	
-错误(活动)	CS0246	未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\LevelSelectSlider.cs	13	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\LevelSelectSlider.cs	16	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\LevelSelectSlider.cs	19	
-错误(活动)	CS0246	未能找到类型或命名空间名“TextMeshProUGUI”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\LevelSelectSlider.cs	50	
-错误(活动)	CS0246	未能找到类型或命名空间名“Scrollbar”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\LevelSelectSlider.cs	51	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\LevelSelectSlider.cs	55	
-错误(活动)	CS0246	未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\LevelSelectSlider.cs	55	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\MapSelectDropdown.cs	7	
-错误(活动)	CS0246	未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\MapSelectDropdown.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\MapSelectDropdown.cs	17	
-错误(活动)	CS0246	未能找到类型或命名空间名“DropDownBox”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\MapSelectDropdown.cs	19	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\MapSelectDropdown.cs	25	
-错误(活动)	CS0246	未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\MapSelectDropdown.cs	25	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Controls\PlayerPositionText.cs	8	
-错误(活动)	CS0246	未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	5	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	13	
-错误(活动)	CS0234	命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	15	
-错误(活动)	CS0246	未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	19	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	27	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	28	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	29	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	30	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	31	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	32	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	33	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	34	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	35	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	36	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	40	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	42	
-错误(活动)	CS0246	未能找到类型或命名空间名“ScrollRect”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	47	
-错误(活动)	CS0246	未能找到类型或命名空间名“Mask”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	48	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	82	
-错误(活动)	CS0246	未能找到类型或命名空间名“EftBattleUIScreen”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	300	
-错误(活动)	CS0246	未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\DumpUtils.cs	3	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\DumpUtils.cs	5	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\DumpUtils.cs	6	
-错误(活动)	CS0246	未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\DumpUtils.cs	7	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\DumpUtils.cs	16	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\DumpUtils.cs	17	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\DumpUtils.cs	24	
-错误(活动)	CS0246	未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	6	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	7	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	8	
-错误(活动)	CS0246	未能找到类型或命名空间名“ISession”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	25	
-错误(活动)	CS0246	未能找到类型或命名空间名“Profile”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	26	
-错误(活动)	CS0246	未能找到类型或命名空间名“WildSpawnType”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	29	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	67	
-错误(活动)	CS0246	未能找到类型或命名空间名“Profile”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	73	
-错误(活动)	CS0246	未能找到类型或命名空间名“BTRView”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	78	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	101	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	107	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	112	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	117	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	134	
-错误(活动)	CS0246	未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	151	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\GameUtils.cs	157	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	12	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	21	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	21	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	39	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	39	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	39	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	44	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	44	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	49	
-错误(活动)	CS0246	未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	49	
-错误(活动)	CS0246	未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\MathUtils.cs	54	
-错误(活动)	CS0246	未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\PlayerDotSpawner.cs	8	
-错误(活动)	CS0246	未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	5	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	7	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	8	
-错误(活动)	CS0246	未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	9	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	38	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	39	
-错误(活动)	CS0246	未能找到类型或命名空间名“TriggerWithId”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	42	
-错误(活动)	CS0246	未能找到类型或命名空间名“LootItem”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	43	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	79	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	98	
-错误(活动)	CS0246	未能找到类型或命名空间名“QuestDataClass”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	98	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	137	
-错误(活动)	CS0246	未能找到类型或命名空间名“Condition”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	137	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	213	
-错误(活动)	CS0246	未能找到类型或命名空间名“ConditionCounterCreator”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	213	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	229	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	239	
-错误(活动)	CS0246	未能找到类型或命名空间名“Condition”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	252	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	252	
-错误(活动)	CS0246	未能找到类型或命名空间名“QuestDataClass”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	252	
-错误(活动)	CS0246	未能找到类型或命名空间名“QuestDataClass”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	286	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	286	
-错误(活动)	CS0246	未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	325	
-错误(活动)	CS0246	未能找到类型或命名空间名“QuestDataClass”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	325	
-错误(活动)	CS0246	未能找到类型或命名空间名“Condition”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	325	
-错误(活动)	CS0246	未能找到类型或命名空间名“TriggerWithId”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	355	
-错误(活动)	CS0246	未能找到类型或命名空间名“TriggerWithId”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	355	
-错误(活动)	CS0246	未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\QuestUtils.cs	360	
-错误(活动)	CS0246	未能找到类型或命名空间名“Sprite”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\TextureUtils.cs	9	
-错误(活动)	CS0246	未能找到类型或命名空间名“Texture2D”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\TextureUtils.cs	11	
-错误(活动)	CS0246	未能找到类型或命名空间名“Sprite”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\TextureUtils.cs	24	
-错误(活动)	CS0246	未能找到类型或命名空间名“DG”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	2	
-错误(活动)	CS0246	未能找到类型或命名空间名“TMPro”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	3	
-错误(活动)	CS0234	命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	5	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	11	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	26	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	26	
-错误(活动)	CS0246	未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	31	
-错误(活动)	CS0246	未能找到类型或命名空间名“Component”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	31	
-错误(活动)	CS0246	未能找到类型或命名空间名“Tween”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	36	
-错误(活动)	CS0246	未能找到类型或命名空间名“Image”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	36	
-错误(活动)	CS0246	未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	36	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	41	
-错误(活动)	CS0246	未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	41	
-错误(活动)	CS0246	未能找到类型或命名空间名“TextMeshProUGUI”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Utils\UIUtils.cs	55	
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)
+命名空间“SPT”中不存在类型或命名空间名“Custom”(是否缺少程序集引用?)
+未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“LootItem”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“LootItem”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“LootItem”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“ExfiltrationPoint”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“ExfiltrationPoint”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EExfiltrationStatus”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“ExfiltrationPoint”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“ExfiltrationPoint”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+命名空间“SPT”中不存在类型或命名空间名“Custom”(是否缺少程序集引用?)
+未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“AirdropBox”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EftBattleUIScreen”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“CommonUI”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameWorld”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Item”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Item”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Item”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“LootItem”(是否缺少 using 指令或程序集引用?)
+类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。
+类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。
+类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。
+类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。
+类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。
+类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。
+类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。
+类型“MonoBehaviour”在未引用的程序集中定义。必须添加对程序集“UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null”的引用。
+未能找到类型或命名空间名“TMPro”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TextMeshProUGUI”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Image”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TMPro”(是否缺少 using 指令或程序集引用?)
+命名空间“UnityEngine”中不存在类型或命名空间名“EventSystems”(是否缺少程序集引用?)
+命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPointerEnterHandler”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPointerExitHandler”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Image”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TextMeshProUGUI”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“PointerEventData”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“PointerEventData”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“DG”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TMPro”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TextMeshProUGUI”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TMPro”(是否缺少 using 指令或程序集引用?)
+命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TextMeshProUGUI”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Scrollbar”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“DropDownBox”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“ScrollRect”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Mask”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EftBattleUIScreen”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“ISession”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Profile”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“WildSpawnType”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Profile”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“BTRView”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“IPlayer”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Transform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“MonoBehaviour”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Comfort”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“EFT”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TriggerWithId”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“LootItem”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“QuestDataClass”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Condition”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“ConditionCounterCreator”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Condition”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“QuestDataClass”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“QuestDataClass”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Player”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“QuestDataClass”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Condition”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TriggerWithId”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TriggerWithId”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Vector3”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Sprite”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Texture2D”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Sprite”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“DG”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TMPro”(是否缺少 using 指令或程序集引用?)
+命名空间“UnityEngine”中不存在类型或命名空间名“UI”(是否缺少程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“RectTransform”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Component”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Tween”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Image”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“Color”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“GameObject”(是否缺少 using 指令或程序集引用?)
+未能找到类型或命名空间名“TextMeshProUGUI”(是否缺少 using 指令或程序集引用?)
