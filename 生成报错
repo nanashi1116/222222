@@ -1,5 +1,4 @@
 严重性	代码	说明	项目	文件	行	抑制状态
-错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	32	
 错误(活动)	CS0246	未能找到类型或命名空间名“Newtonsoft”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	4	
 错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	11	
 错误(活动)	CS0246	未能找到类型或命名空间名“Vector2”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	12	
@@ -12,6 +11,7 @@
 错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	29	
 错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	29	
 错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	32	
+错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	32	
 错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	40	
 错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequired”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	40	
 错误(活动)	CS0246	未能找到类型或命名空间名“JsonRequiredAttribute”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\Data\Defs.cs	43	
