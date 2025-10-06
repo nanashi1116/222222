@@ -1,6 +1,9 @@
 严重性	代码	说明	项目	文件	行	抑制状态
-错误(活动)	CS0103	当前上下文中不存在名称“MapDefLoader”	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	74	
-错误(活动)	CS1061	“MapDef”未包含“InternalName”的定义，并且找不到可接受第一个“MapDef”类型参数的可访问扩展方法“InternalName”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	184	
-错误(活动)	CS1061	“MapDef”未包含“InternalName”的定义，并且找不到可接受第一个“MapDef”类型参数的可访问扩展方法“InternalName”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	196	
-错误(活动)	CS1061	“MapDef”未包含“InternalName”的定义，并且找不到可接受第一个“MapDef”类型参数的可访问扩展方法“InternalName”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	201	
-警告(活动)	CS0169	从不使用字段“ModdedMapScreen._mapScreen”	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	27	
+错误(活动)	CS0111	类型“ModdedMapScreen”已定义了一个名为“Update”的具有相同参数类型的成员	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	150	
+错误(活动)	CS0263	“ModdedMapScreen”的分部声明一定不能指定不同的基类	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapPeekComponent.cs	21	
+错误(活动)	CS0246	未能找到类型或命名空间名“MapPeekComponent”(是否缺少 using 指令或程序集引用?)	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\Components\MapPeekComponent.cs	28	
+错误(活动)	CS0101	命名空间“DynamicMaps.UI”已经包含“ModdedMapScreen”的定义	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	16	
+错误(活动)	CS0111	类型“ModdedMapScreen”已定义了一个名为“Create”的具有相同参数类型的成员	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	37	
+错误(活动)	CS0111	类型“ModdedMapScreen”已定义了一个名为“Show”的具有相同参数类型的成员	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	217	
+错误(活动)	CS0111	类型“ModdedMapScreen”已定义了一个名为“Hide”的具有相同参数类型的成员	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	244	
+错误(活动)	CS0111	类型“ModdedMapScreen”已定义了一个名为“ReadConfig”的具有相同参数类型的成员	DynamicMaps	E:\Users\Administrator\Desktop\SPT-DynamicMaps-main\UI\ModdedMapScreen.cs	307	
